@@ -8,7 +8,7 @@ FreelanceHub es un sistema desarrollado en Java que permite gestionar usuarios, 
 
 **OBJETIVO**
 
-Desarrollar una aplicación que permita administrar proyectos y tareas, aplicando los principios y fundamentos de la Programación Orientada a Objetos mediante el lenguaje Java.
+Desarrollar una aplicación que permita administrar proyectos y tareas, aplicando los principios y fundamentos de la programación orientada a objetos mediante el lenguaje Java.
 
 **TECNOLOGÍAS UTILIZADAS**
 
@@ -36,8 +36,8 @@ El desarrollo de FreelanceHub aplica los siguientes conceptos:
 - Herencia: reutilización de atributos y comportamientos entre clases relacionadas.
 - Abstracción: representación de características generales mediante clases abstractas.
 - Polimorfismo: implementación de diferentes comportamientos para operaciones como el cálculo de costos.
-- Interfaces: definición de contratos que establecen comportamientos para las clases.
-- Colecciones: utilización de ArrayList para administrar los datos durante la ejecución.
+- Interfaces: definición de contratos que especifican el comportamiento de las clases.
+- Colecciones: uso de ArrayList para gestionar los datos durante la ejecución.
 
 **ESTRUCTURA DEL PROYECTO**
 
@@ -82,7 +82,7 @@ Responsabilidad: Menús, seguridad e integración del sistema.
 **REPOSITORIO**
 
 Enlace de GitHub:
-(https://github.com/Adrean-Dev/Proyecto-POO.git)
+(https://github.com/Adrean-Dev/FreelanceHub.git)
 
 **ALCANCE DEL PROYECTO**
 
