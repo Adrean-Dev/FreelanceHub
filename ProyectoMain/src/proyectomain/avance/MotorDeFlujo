@@ -1,5 +1,4 @@
-package proyectomain.avance;
-
+package proyecto.avance;
 public class MotorDeFlujo {
 
     public void evaluarAvanceTarea(Tarea tarea) {
