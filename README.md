@@ -1,22 +1,22 @@
-FreelanceHub
+**FreelanceHub**
 
-Sistema de gestión de proyectos y tareas freelance
+*Sistema de gestión de proyectos y tareas freelance*
 
-DESCRIPCIÓN DEL PROYECTO
+**DESCRIPCIÓN DEL PROYECTO**
 
 FreelanceHub es un sistema desarrollado en Java que permite gestionar usuarios, clientes, freelancers, proyectos y tareas dentro de un entorno de trabajo freelance. Su propósito es facilitar la organización y administración de proyectos mediante diferentes funcionalidades de registro, consulta, actualización y eliminación de información.
 
-OBJETIVO
+**OBJETIVO**
 
 Desarrollar una aplicación que permita administrar proyectos y tareas, aplicando los principios y fundamentos de la Programación Orientada a Objetos mediante el lenguaje Java.
 
-TECNOLOGÍAS UTILIZADAS
+**TECNOLOGÍAS UTILIZADAS**
 
 - Java
 - Apache NetBeans
 - GitHub
 
-FUNCIONALIDADES PRINCIPALES
+**FUNCIONALIDADES PRINCIPALES**
 
 - Registro y gestión de usuarios.
 - Administración de clientes y freelancers.
@@ -28,7 +28,7 @@ FUNCIONALIDADES PRINCIPALES
 - Navegación mediante menús.
 - Inicio y cierre de sesión.
 
-CONCEPTOS DE PROGRAMACIÓN ORIENTADA A OBJETOS
+**CONCEPTOS DE PROGRAMACIÓN ORIENTADA A OBJETOS**
 
 El desarrollo de FreelanceHub aplica los siguientes conceptos:
 
@@ -39,7 +39,7 @@ El desarrollo de FreelanceHub aplica los siguientes conceptos:
 - Interfaces: definición de contratos que establecen comportamientos para las clases.
 - Colecciones: utilización de ArrayList para administrar los datos durante la ejecución.
 
-ESTRUCTURA DEL PROYECTO
+**ESTRUCTURA DEL PROYECTO**
 
 El proyecto se organiza en diferentes clases y módulos que permiten separar las responsabilidades del sistema:
 
@@ -49,13 +49,13 @@ El proyecto se organiza en diferentes clases y módulos que permiten separar las
 - Módulo de seguridad: gestiona el inicio y cierre de sesión.
 - Módulo de navegación: permite interactuar con las funcionalidades mediante menús.
 
-REQUISITOS DE EJECUCIÓN
+**REQUISITOS DE EJECUCIÓN**
 
 - Tener instalado Java JDK en una versión compatible.
 - Tener instalado Apache NetBeans.
 - Disponer de los archivos del proyecto.
 
-INSTRUCCIONES DE EJECUCIÓN
+**INSTRUCCIONES DE EJECUCIÓN**
 
 1. Descargar o clonar el repositorio desde GitHub.
 2. Abrir Apache NetBeans.
@@ -64,26 +64,26 @@ INSTRUCCIONES DE EJECUCIÓN
 5. Esperar a que NetBeans reconozca los archivos.
 6. Ejecutar la clase principal Main.java.
 
-ALMACENAMIENTO DE DATOS
+**ALMACENAMIENTO DE DATOS**
 
 En esta versión, el sistema administra la información en memoria durante la ejecución del programa. No se utiliza una base de datos ni almacenamiento persistente.
 
-INTEGRANTES
+**INTEGRANTES**
 
-Freire Guevara Danna Fiorella
+*Freire Guevara Danna Fiorella*
 Responsabilidad: Gestión de usuarios.
 
-Baca Menoscal Jean Piere
+*Baca Menoscal Jean Piere*
 Responsabilidad: Gestión de proyectos y tareas.
 
-Cassola Suarez Matias Adrian
+*Cassola Suarez Matias Adrian*
 Responsabilidad: Menús, seguridad e integración del sistema.
 
-REPOSITORIO
+**REPOSITORIO**
 
 Enlace de GitHub:
 (https://github.com/Adrean-Dev/Proyecto-POO.git)
 
-ALCANCE DEL PROYECTO
+**ALCANCE DEL PROYECTO**
 
 FreelanceHub es un proyecto académico desarrollado para aplicar los fundamentos de la Programación Orientada a Objetos mediante una aplicación de consola en Java. Su estructura modular permite organizar las funcionalidades y facilitar la integración de los diferentes componentes desarrollados por el equipo.
