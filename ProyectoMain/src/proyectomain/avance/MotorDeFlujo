@@ -1,0 +1,27 @@
+package proyecto.avance;
+public class MotorDeFlujo {
+
+    public void evaluarAvanceTarea(Tarea tarea) {
+        if (tarea == null) {
+            System.out.println("La tarea no existe.");
+            return;
+        }
+
+        System.out.println("Evaluando tarea: " + tarea.getTitulo());
+        
+        switch (tarea.getEstado()) {
+            case PENDIENTE:
+                System.out.println("Estado: NO AVANZADA (PENDIENTE)");
+                break;
+            case EN_PROGRESO:
+                System.out.println("Estado: EN PROGRESO");
+                break;
+            case COMPLETADA:
+                System.out.println("Estado: COMPLETADA");
+                break;
+            default:
+                System.out.println("Estado desconocido.");
+        }
+    }
+}
+
